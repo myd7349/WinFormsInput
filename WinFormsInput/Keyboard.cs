@@ -1,12 +1,10 @@
-﻿// 2017-04-22T19:37:02+08:00
-// What?
+﻿// What?
 // A WPF `Keyboard.IsKeyDown` equivalent for WinForms projects.
 // How?
 // ILSpy + PresentationCore.ni.dll
 using System.ComponentModel;
-using System.Windows.Forms;
 
-namespace Common.WinForms.Input
+namespace System.Windows.Forms.Input
 {
     public static class Keyboard
     {

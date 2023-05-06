@@ -1,8 +1,6 @@
-﻿// 2017-04-22T19:37:10+08:00
-using System.Runtime.InteropServices;
-using System.Windows.Forms;
+﻿using System.Runtime.InteropServices;
 
-namespace Common.WinForms.Input
+namespace System.Windows.Forms.Input
 {
     public static class KeyInterop
     {

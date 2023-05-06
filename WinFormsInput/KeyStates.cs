@@ -1,5 +1,4 @@
-﻿// 2017-04-22T19:37:16+08:00
-namespace Common.WinForms.Input
+﻿namespace System.Windows.Forms.Input
 {
     public enum KeyStates : byte
     {
