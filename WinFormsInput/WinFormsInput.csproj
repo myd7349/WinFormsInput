@@ -9,7 +9,7 @@
     <UseWindowsForms>true</UseWindowsForms>
     <EnableNETAnalyzers>true</EnableNETAnalyzers>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-    <PackageId>System.Windows.Forms.Input</PackageId>
+    <PackageId>WinFormsInput</PackageId>
     <PackageVersion>1.0.0</PackageVersion>
     <Authors>myd7349</Authors>
     <Description>A WPF Keyboard.IsKeyDown equivalent for WinForms projects.</Description>
